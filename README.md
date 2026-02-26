@@ -7,7 +7,7 @@
 
 [随机16:9的图片](https://pic.points.eu.org)
 
-![图片描述](图片URL)
+![图片描述](https://raw.githubusercontent.com/2672182747/my-docs/refs/heads/main/IMG_20260226_104656.jpg)
 
 **粗体文字**
 *斜体文字*
