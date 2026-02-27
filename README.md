@@ -7,7 +7,7 @@
 
 [随机16:9的图片](https://pic.points.eu.org)
 
-![图片描述](https://pic.sl.al/gdrive/pic/2026-02-27/fileid_1T5jX9T3LspByqEapJulpoJThNybPno4__20260227-101751.jpg)
+![图片描述](https://pic.sl.al/gdrive/pic/2026-02-27/fileid_1RiYBxPaq_Jbm0iewSvYo7ROryb8XqBHc_LWH_8053-opq4203421373.jpg)
 
 **粗体文字**
 *斜体文字*
